@@ -51,40 +51,11 @@
   #  2:Tạo bảng
    ![Annotation 2025-03-25 154010](https://github.com/user-attachments/assets/eb0437f7-83dd-470b-ac9c-e06c57b9028f)
 
-   # 3:Tạo Khóa Chính( kích chuột phải vào cột cần tạo khóa chính rồi cick vào dòng có từ Remove Primay Key)
+   # 3:Tạo Khóa Chính
+   ( kích chuột phải vào cột cần tạo khóa chính rồi cick vào dòng có từ Remove Primay Key)
    ![Annotation 2025-03-25 154820](https://github.com/user-attachments/assets/54cf733c-099e-4986-b852-dae594827687)
-   4:tạo khóa ngoại
+   # 4:tạo khóa ngoại
    b1: cick chuột phải vào dòng cần lập khóa ngoại rồi cick vào Relationships...
    ![Annotation 2025-03-25 154820](https://github.com/user-attachments/assets/0c49eada-a709-4fb6-9b0c-5b22be132312)
-   b2:cick vào Add (1) rồi chọn vào chỗ ba chấm(2) rồi vào chọn bảng rồi chọn khóa chính và khóa
-   ![Annotation 2025-03-25 160103](https://github.com/user-attachments/assets/7c67bcd4-cc0f-4e96-b8c7-a3ff66482498)
-   b3 cick vào primmary key table rồi chọn cái khóa chính tương ứng với khóa ngoại rồi ok
-   ![Annotation 2025-03-25 160948](https://github.com/user-attachments/assets/78007693-8e23-4dfa-968b-445dd468db70)
-   b4 chọn close để thoát
-   ![image](https://github.com/user-attachments/assets/34d438bc-49af-411b-992a-a2a11a3084aa)
-# 5:các bước để đưa code ra ngoài màn hình.
-![Annotation 2025-03-25 195104](https://github.com/user-attachments/assets/f7c19453-2954-421c-b859-f88c50908686)
-# 6:Ảnh mô tả tạo ra bảng check
-b1 cick chuột phải vào ô cần chọn rồi chọn check constraints là tạo được một bảng 
-![Annotation 2025-03-25 200533](https://github.com/user-attachments/assets/67209737-1319-40cc-98f1-0af5b5ea942f)
-b2 ta có giao diện như trên đầu tiên (1) chọn add để đẩy dữ liệu lên xong ta chọn vào(2) ấn vào tên để đổi tên mà mình muốn check rồi đó chọn (3) vào dấu ba chấm ở ẽpression để điền dữ liệu check . sau khi làm ba bước trên ta ctrl+s để lưa rồi cick chọn close.
-![Annotation 2025-03-25 201310](https://github.com/user-attachments/assets/ac762d3b-f794-48fc-85c4-233587e675a0)
-# 7 ảnh hiện bảng 
-![Annotation 2025-03-25 203651](https://github.com/user-attachments/assets/5f98fef6-0217-4f24-a594-6955281af1cf)
-# bảng null 
-![Annotation 2025-03-25 001947](https://github.com/user-attachments/assets/8f99ca12-6e5a-4557-bdab-19728a904938)
- # 8 SinhVien(#masv,hoten,Ngaysinh)
-1,cách tạo khóa chính cho sinh 
-![image](https://github.com/user-attachments/assets/0a2cee72-1640-4ef9-8402-158520744d04)
-2,đưa codee ra ngoài màn 
-![image](https://github.com/user-attachments/assets/34b31fe6-aa6f-4e5c-a33f-0a884c2e778b)
-3,ảnh kết quả sinh viên chạy thành công.
-![Annotation 2025-03-24 231617](https://github.com/user-attachments/assets/b171135c-0021-436f-ab0f-f4d89bceb9c5)
-4,Mô tả tạo bảng check ở bảng sinh ( cick chuột phải vào cột định tạo bảng check rồi chọn check constraints..)
-![image](https://github.com/user-attachments/assets/18b8b64e-494c-44c1-94ce-0dccaa0b3214)
-đầu tiên chọn   (1) ấn add để đẩy dữ liệu bảng lên xong đó chọn (2) ấn  vào tên để đổi tên mình muốn check sau đó chọn(3) chọn vào chỗ ba chấm ở expression để điền dữ liệu check xong rồi chọn close rồi ctrl +s
-![image](https://github.com/user-attachments/assets/b37207d5-aabd-4078-ac6b-b52646b05546)
-5, kết quả của sinh viên
-![image](https://github.com/user-attachments/assets/2dd35c65-e324-4477-8a63-b13a9567d968)
-# rồi làm theo các bước trên với các bảng còn lạilại
+   b2:cick vào lại
 
