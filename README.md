@@ -76,5 +76,15 @@ b2 ta có giao diện như trên đầu tiên (1) chọn add để đẩy dữ l
  # 8 SinhVien(#masv,hoten,Ngaysinh)
 1,cách tạo khóa chính cho sinh 
 ![image](https://github.com/user-attachments/assets/0a2cee72-1640-4ef9-8402-158520744d04)
-
+2,đưa codee ra ngoài màn 
+![image](https://github.com/user-attachments/assets/34b31fe6-aa6f-4e5c-a33f-0a884c2e778b)
+3,ảnh kết quả sinh viên chạy thành công.
+![Annotation 2025-03-24 231617](https://github.com/user-attachments/assets/b171135c-0021-436f-ab0f-f4d89bceb9c5)
+4,Mô tả tạo bảng check ở bảng sinh ( cick chuột phải vào cột định tạo bảng check rồi chọn check constraints..)
+![image](https://github.com/user-attachments/assets/18b8b64e-494c-44c1-94ce-0dccaa0b3214)
+đầu tiên chọn   (1) ấn add để đẩy dữ liệu bảng lên xong đó chọn (2) ấn  vào tên để đổi tên mình muốn check sau đó chọn(3) chọn vào chỗ ba chấm ở expression để điền dữ liệu check xong rồi chọn close rồi ctrl +s
+![image](https://github.com/user-attachments/assets/b37207d5-aabd-4078-ac6b-b52646b05546)
+5, kết quả của sinh viên
+![image](https://github.com/user-attachments/assets/2dd35c65-e324-4477-8a63-b13a9567d968)
+# rồi làm theo các bước trên với các bảng còn lạilại
 
