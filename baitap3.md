@@ -57,8 +57,28 @@ Bên cạnh đó, sẽ có điểm thưởng 10đ cho sv :  🎁
 
    # Bài Làm
 ### 1.Sửa Bảng DKMH và thêm bảng điểm
-+ đây là DKMH sau khi sửa: thêm cột id_dk và để id_dk làm khóa chính trong bảng
+#### đây là DKMH sau khi sửa: thêm cột id_dk và để id_dk làm khóa chính trong bảng
 ![image](https://github.com/user-attachments/assets/e7f5a868-f949-4fb7-807f-c312571b84b0)
-+ tạo thêm điểm vào database 
+#### tạo thêm điểm vào database 
 ![image](https://github.com/user-attachments/assets/8c1284ad-2e16-40d2-b531-a67ccfa03fc7)
-+ tạo khóa ngoại cho bảng điểm:
+#### tạo khóa ngoại cho bảng điểm:
+![image](https://github.com/user-attachments/assets/44a174fd-c76f-4653-8989-5aa55924e361)
+![image](https://github.com/user-attachments/assets/72e48e9b-a418-4ef3-ac18-c3d8fc3c0bd7)
+#### Tạo bảng check cho bảng điểm
+ ![image](https://github.com/user-attachments/assets/e3bdafda-b2d4-4364-a617-6c81ccfaa889)
+#### Mô tả các PK,FK Của DB
+![Annotation 2025-03-30 174800](https://github.com/user-attachments/assets/4a1d79ae-8526-4452-9b3d-654df043d489)
+#### Ảnh code truy vấn được lấy từ các bảng sau
+1,Bảng sinh vien
+![image](https://github.com/user-attachments/assets/c5670dfc-4e32-4186-b4b3-a800d8725b06)
+2,Bảng lop hoc phan 
+![image](https://github.com/user-attachments/assets/f90150b4-911c-4cfe-8733-b13fd1e6053c)
+3, Bảng Mon hoc
+![image](https://github.com/user-attachments/assets/79ddb8a0-c0eb-42b4-ad53-aaeaca6fccee)
+4 bảng DKMH
+![image](https://github.com/user-attachments/assets/0254ea1a-f478-4de1-92f6-942be091c82b)
+5, Bảng Diem
+![image](https://github.com/user-attachments/assets/497366a0-0dee-4e2a-8ed5-bc0cd442c027)
+
+  
+
