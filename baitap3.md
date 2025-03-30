@@ -53,3 +53,12 @@ SV vi phạm 1 trong các lỗi sau chỉ 1 lần sẽ bị cấm thi: 🚫
 Bên cạnh đó, sẽ có điểm thưởng 10đ cho sv :  🎁
 1. Trả lời đúng câu hỏi trên lớp.
 2. Hỏi câu hỏi làm thầy khó trả lời.
+
+
+   # Bài Làm
+### 1.Sửa Bảng DKMH và thêm bảng điểm
++ đây là DKMH sau khi sửa: thêm cột id_dk và để id_dk làm khóa chính trong bảng
+![image](https://github.com/user-attachments/assets/e7f5a868-f949-4fb7-807f-c312571b84b0)
++ tạo thêm điểm vào database 
+![image](https://github.com/user-attachments/assets/8c1284ad-2e16-40d2-b531-a67ccfa03fc7)
++ tạo khóa ngoại cho bảng điểm:
